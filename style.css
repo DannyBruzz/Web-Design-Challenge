@@ -1,0 +1,14 @@
+.header {
+    padding: 40px;
+    color: blue;
+    text-emphasis: 20px;
+  }
+
+h2 {
+    color: blue;
+    padding: 20px;
+}
+
+p {
+    padding: 20px;
+}

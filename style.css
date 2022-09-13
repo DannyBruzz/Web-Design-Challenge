@@ -9,6 +9,13 @@ h2 {
     padding: 20px;
 }
 
+.sidebar{
+    float:right;
+}
+
+.main {
+    float:left;
+}
 p {
     padding: 20px;
 }

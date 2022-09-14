@@ -10,10 +10,11 @@ h2 {
 }
 
 .sidebar{
-    float:right;
+    float:left;
+    clear: both;
 }
 
-.main {
+.main figure {
     float:left;
 }
 p {
